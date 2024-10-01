@@ -7,7 +7,7 @@ Submitted by:
 Agbugblah Nathaniel
 
 
-[Github Url](https://github.com/nate-777/virtual_infosec_africa-cyberlab)
+[Github Url](https://github.com/nate-777/virtual_infosec_africa-cyberlab-/blob/main/INPT.md)
 
 ___
 
